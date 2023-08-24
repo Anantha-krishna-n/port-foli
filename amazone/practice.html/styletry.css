@@ -1,0 +1,28 @@
+#topbar{
+
+}
+.box{
+    height: 100px;
+    width:  100px;
+    border: 2px solid black;
+    display: inline-block;
+    background-color: palevioletred;
+    margin: 50px;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 60px;
+}
+#topbar{
+    height: 60px;
+    
+   
+    background-color: black;
+    color: white;
+}
+body{
+    margin: 0;
+}
